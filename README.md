@@ -1,2 +1,3 @@
 # Emoji-interpreter
-Created with CodeSandbox
+
+This app is an emoji dictionary/interpreter. Built with React. Created with CodeSandbox
